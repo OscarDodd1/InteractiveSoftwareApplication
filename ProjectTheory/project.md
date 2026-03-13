@@ -24,5 +24,9 @@
 
 ---
 
-### Requirements Specificaton
-#### Functional Requirements: 
+## Requirements Specificaton
+### Functional Requirements:
+
+#### **Purpose of the application**: The purpose of the application is to display and give the user an experience about the first few chapters of the book and promote it. It gives users an idea of what the book will be about through an engaging experience they can enjoy.
+
+#### **Use Cases**: The user will have to flip though a book to select a chapter they want to experience
