@@ -29,4 +29,10 @@
 
 #### **Purpose of the application**: The purpose of the application is to display and give the user an experience about the first few chapters of the book and promote it. It gives users an idea of what the book will be about through an engaging experience they can enjoy.
 
-#### **Use Cases**: The user will have to flip though a book to select a chapter they want to experience
+#### **Use Cases**:
+#### 1 - The user picks up a book and flips through it, after going to the chapter they want to experience they place the book down on a table to play that chapter.
+#### 2 - Users can navigate to a characters section on the main menu and look through a book of all the characters, if they put the book on the table infront of them it displays the character closely.
+#### 3 - Users can navigate back to the main menu by putting out a candle by grabbing it, the candle will always be next to the player an there will be text above it to tell the player how to use it.
+#### 4 - Users can go to a settings page if they pick up a cog on a table on the main menu, the settings page will have accessibility settings for users.
+
+#### **Test Cases**:
