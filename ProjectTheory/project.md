@@ -36,3 +36,20 @@
 #### 4 - Users can go to a settings page if they pick up a cog on a table on the main menu, the settings page will have accessibility settings for users.
 
 #### **Test Cases**:
+#### 1 - 
+
+## Social, Ethical and Legal Issues
+### Social Impact
+#### **Target Audience**: Teens and young adults will be using this experience, some of these people may require an accessibility changes for things like epilepsy. There will be certain settings for these users so that they can use the experience without problems.
+#### **Potential Benifits**: My project positively benifits the users by allowing them to experience the book before they commit to buying it.
+
+#### **Potential Risks**: The design will try to accomodate most groups and any scenes that may be sensitive to users will have a warning before it is experienced.
+
+### Ethical Responsibilities
+#### **User Data and Privacy**: If the experience was to be fully published, I would collect data based on how the user liked the story. The experience would be fully anonymous and the data collected wouldne be significant.
+#### **Representation and Inclusion**: The project will fairly represent characters, and chapters from the book to give the user a truthful experience about the book.
+#### **Content Sensitiviy**: The book may contain controversial topics like discrimination of disabled people, the experience will also give a warning about this when opened so that the user is aware.
+
+### Legal Considerations
+#### **Copyright and Intellectual Property**: The project will incorperate photos and a model of the book, the book is copyrighted by the owner but the photos will be user for educational purposes. Some of the other assets like models will be created in blender, but some of the more complex models like people will be found online.
+#### **Terms of Use**: If I were to launch this product, I would need to request permissions to use the assets from within the book, same goes for the models. Then within the experience I would include a credits page which shows were all of the assets came from.
