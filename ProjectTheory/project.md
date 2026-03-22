@@ -53,3 +53,8 @@
 ### Legal Considerations
 #### **Copyright and Intellectual Property**: The project will incorperate photos and a model of the book, the book is copyrighted by the owner but the photos will be user for educational purposes. Some of the other assets like models will be created in blender, but some of the more complex models like people will be found online.
 #### **Terms of Use**: If I were to launch this product, I would need to request permissions to use the assets from within the book, same goes for the models. Then within the experience I would include a credits page which shows were all of the assets came from.
+
+## Reaserching and Planning
+
+### Gantt Chart
+![Gantt Chart](Images\GanttChart.png "Gantt Chart")
