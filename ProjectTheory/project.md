@@ -58,3 +58,13 @@
 
 ### Gantt Chart
 ![Gantt Chart](Images\GanttChart.png "Gantt Chart")
+
+### **Researching existing UIs**
+| UI Name     | Plus | Minus | Implication |
+|-------------|------|-------|-------------|
+| Moss (Game) | The game makes the player feel like they are involed in the story, the gameplay, level design and story make this game engaging. The game also includes elements of combat and puzzles which also keeps player playing the game even if they cant figure it out at first. | 
+
+### Moss (Game)
+![Moss Image](Images\MossImage.jpg "Moss Image")
+![Moss Gameplay Image](Images\MossGameplayImage.webp "Moss Gameplay Image")
+![Moss Gameplay Image 2](Images\MossGameplayImage2.png "Moss Gameplay Image 2")
