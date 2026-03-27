@@ -62,9 +62,21 @@
 ### **Researching existing UIs**
 | UI Name     | Plus | Minus | Implication |
 |-------------|------|-------|-------------|
-| Moss (Game) | The game makes the player feel like they are involed in the story, the gameplay, level design and story make this game engaging. The game also includes elements of combat and puzzles which also keeps player playing the game even if they cant figure it out at first. | 
+| Moss (VR Game) | The game makes the player feel like they are involed in the story, the gameplay, level design and story make this game engaging. The game also includes elements of combat and puzzles which keeps player playing the game and is rewarding if they figure it out. | The game is short and only has around 3 hours of gameplay, the puzzles and combat are also very frustrating if they player cant figure it out. | The user flips book within each chapter of the game which could be implemented in my experience and would make the user feel like they are within the book. |
+| Job Simulator (VR Game) | The game has enganging elements and has a mix of puzzles and entertaning gamplay. The user has the freedom to "create their own fun" within the game, and this is amplified with game modifiers which change how the game feels. | The game is old and feels buggy at times, its also very short and isnt long lasting, it ends up in a repetitive loop of gameplay and can get boring after the player has played most of the game. | The game allows the user to create fun with making lots of game objects fully interactable and different from eachother, this would be nice to implement to allow the user to have the freedom to do what they want. |
+| Rec Room (VR/PC/Console/Mobile Game) | The game has sandbox elements and allows the player to join in game experiences created by the playerbase and allows users to connect with eachother. | The game is very slow sometimes and can take minutes to load experiences, adding to this, some elements of the game easily break like ingame creation tools. | The sandbox elements like ingame creation tools of this game could be implemented to allow the user to have the freedom to explore the things in my chosen book.
 
-### Moss (Game)
+### Moss (VR Game)
 ![Moss Image](Images\MossImage.jpg "Moss Image")
 ![Moss Gameplay Image](Images\MossGameplayImage.webp "Moss Gameplay Image")
 ![Moss Gameplay Image 2](Images\MossGameplayImage2.png "Moss Gameplay Image 2")
+
+### Job Simulator (VR Game)
+![Job Simulator Image](Images\JobSimulatorImage.jpg "Moss Image")
+![Job Simulator Gameplay Image](Images\JobSimulatorGameplayImage.jpg "Job Simulator Gameplay Image")
+![Job Simulator Gameplay Image 2](Images\JobSimulatorGameplayImage2.jpg "Job Simulator Gameplay Image 2")
+
+### Rec Room (VR/PC/Console/Mobile Game)
+![Rec Room Image](Images\RecRoomImage.jpg "Rec Room Image")
+![Rec Room Gameplay Image](Images\RecRoomGameplayImage.jpg "Rec Room Gameplay Image")
+![Rec Room Gameplay Image 2](Images\RecRoomGameplayImage2.webp "Rec Room Gameplay Image 2")
