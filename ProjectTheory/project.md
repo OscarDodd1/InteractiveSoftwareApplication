@@ -80,3 +80,9 @@
 ![Rec Room Image](Images\RecRoomImage.jpg "Rec Room Image")
 ![Rec Room Gameplay Image](Images\RecRoomGameplayImage.jpg "Rec Room Gameplay Image")
 ![Rec Room Gameplay Image 2](Images\RecRoomGameplayImage2.webp "Rec Room Gameplay Image 2")
+
+### **Researching Software Options**
+| Software Option     | Plus | Minus | Implication |
+|---------------------|------|-------|-------------|
+| Unity               | Unity has lots of tutorials online that can be followed and I have a little bit of prior experience. It also has a built in virtual reality preset. | Unity takes a while to learn and is a bit confusing sometimes | This software will be used as there is a tutarial which teaches the basics of vr in unity. |
+| Excalidraw | Excalidraw has simple drawing features and can be used to make a wireframe for the menus. | It is very basic and would mostly be used for 
