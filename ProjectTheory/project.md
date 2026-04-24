@@ -85,4 +85,7 @@
 | Software Option     | Plus | Minus | Implication |
 |---------------------|------|-------|-------------|
 | Unity               | Unity has lots of tutorials online that can be followed and I have a little bit of prior experience. It also has a built in virtual reality preset. | Unity takes a while to learn and is a bit confusing sometimes | This software will be used as there is a tutarial which teaches the basics of vr in unity. |
-| Excalidraw | Excalidraw has simple drawing features and can be used to make a wireframe for the menus. | It is very basic and would mostly be used for 
+| Excalidraw | Excalidraw has simple drawing features and can be used to make a wireframe for the menus. | It is very basic and can only really be used for very basic wirefames of the menus. | I would use excalidraw for the menus to see how they would look like, but I woulnd be able to do much more than that. |
+| Blender | Blender is a very popular 3D modelling application and would be useful for objects that will be used in my game. | Blender requires some experience to be used well, and models can take alot of time and changes to look good. | I would use blender for some of the models in my game although they could take some time. |
+
+### **Wireframes**
