@@ -36,7 +36,12 @@
 #### 4 - Users can go to a settings page if they pick up a cog on a table on the main menu, the settings page will have accessibility settings for users.
 
 #### **Test Cases**:
-#### 1 - 
+#### 1 - When the user selects a character in the character menu, it should display the character's information.
+#### 2 - When the user selects a chapter it should show a picture on the screen which shows a "sneak peak" on what happens in that chapter, it should also display information about the chapter.
+#### 3 - When the user presses play after selecting a chapter, it should darken the screen and load the chapter then once everything is loaded it should rebrighten the screen.
+#### 4 - When the user presses start on the main menu it should load the first chapter.
+
+#### These features will be self and peer tested so that it can be made sure that the user interface is easily understandable and easy to navigate for everyone.
 
 ## Social, Ethical and Legal Issues
 ### Social Impact
@@ -89,3 +94,17 @@
 | Blender | Blender is a very popular 3D modelling application and would be useful for objects that will be used in my game. | Blender requires some experience to be used well, and models can take alot of time and changes to look good. | I would use blender for some of the models in my game although they could take some time. |
 
 ### **Wireframes**
+### Main menu
+![Wireframe1](Images\Wireframe1.png "Wireframe1")
+
+### character information page
+![Wireframe2](Images\Wireframe2.png "Wireframe2")
+
+### chapter selection page
+![Wireframe3](Images\Wireframe3.png "Wireframe3")
+
+### **Wireframe Feedback**
+#### Charles McDonagh: 
+
+### **Final Evaluation**
+#### My final product didnt meet the level of quality that i would have intended it to be, its missing most of the key features that my experience was meant to have. It didnt meet my Functional and non Functional requirements, being that it should have promoted the book to the user through an enganging experience. My projet doesnt adress any of the social, ethical, and legal responsibilities that was mentioned. Most of these issues is beacuse of my choice of creating a virtual reality instead of something simpler like a website, also beacuse of my time management.
