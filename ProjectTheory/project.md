@@ -104,8 +104,7 @@
 ![Wireframe3](Images\Wireframe3.png "Wireframe3")
 
 ### **Wireframe Feedback**
-#### Charles McDonagh: The images are too boxy and lack visual interest, they look very basic
-the ease of use is high quality though.
+#### Charles McDonagh: The images are too boxy and lack visual interest, they look very basic the ease of use is high quality though.
 
 ### **Final Evaluation**
 #### My final product didnt meet the level of quality that i would have intended it to be, its missing most of the key features that my experience was meant to have. It didnt meet my Functional and non Functional requirements, being that it should have promoted the book to the user through an enganging experience. My projet doesnt adress any of the social, ethical, and legal responsibilities that was mentioned. Most of these issues is beacuse of my choice of creating a virtual reality instead of something simpler like a website, also beacuse of my time management.
